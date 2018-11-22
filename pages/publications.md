@@ -17,7 +17,7 @@
 
 1. **Z. Peng**, C. Li, R. Gómez-García, and J.-M. Muñoz-Ferreras, *Chapter 1: FMCW Radar System for Short-Range Micro-Motion Sensing*, C. Gu and J. Lien, Eds. Raleigh, NC: SCITECH PUB, 2019.
 
-1. R. Gómez-García, D. Psychogiou, **Z. Peng**, J.-M. Muñoz-Ferreras, and C. Li, *<a href="https://books.google.com/books/about/Radar_and_Communication_Spectrum_Sharing.html?id=G7nOtQEACAAJ" target="_blank">Chapter B.3: Adaptive RF multi-interference suppression for radar/wireless-communication wideband receivers</a>*, S. Blunt and E. Perrins, Eds. Raleigh, NC: SCITECH PUB, 2018.
+1. R. Gómez-García, D. Psychogiou, **Z. Peng**, J.-M. Muñoz-Ferreras, and C. Li, *<a href="https://www.theiet.org/resources/books/rsna/spec-sharing.cfm" target="_blank">Chapter 10: Adaptive RF multi-interference suppression for radar/wireless-communication wideband receivers</a>*, S. Blunt and E. Perrins, Eds. Raleigh, NC: SCITECH PUB, 2018.
 
 ------
 
