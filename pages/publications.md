@@ -75,6 +75,8 @@
 
 1. T. Jiao, **Z. Peng**, S. Luo, Y. Li, and C. Li, "<a href="https://www.2018apsursi.org/Papers/ViewPapers.asp?PaperNum=2600" target="_blank">Mutual coupling reduction in a T/R array with T-resonate cavity EBG (TRC-EBG)</a>," in *IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (AP-S/URSI)*, Boston, MA, Jul. 8-13, 2018.
 
+1. J.-M. Muñoz-Ferreras, J. Wang, Z Peng, R. Gómez-García, and C. Li, "<a href="https://ieeexplore.ieee.org/abstract/document/8471575" target="_blank">From Doppler to FMCW radars for non-contact vital-sign monitoring</a>," in *2nd URSI Atlantic Radio Science Meeting (AT-RASC)*, Meloneras, Spain, May 28-Jun. 1, 2018.
+
 1. D. Tang, J. Wang, Z Peng, Y.-C. Chiang, and C. Li, "<a href="https://ieeexplore.ieee.org/document/8409872" target="_blank">A DC-coupled biomedical radar sensor with analog DC offset calibration circuit</a>," in *IEEE International Instrumentation and Measurement Technology Conference (I2MTC)*, Houston, TX, May 14-17, 2018.
 
 1. Z Peng, A. Mishra, J. Davis, J. Bridge, and C. Li, "<a href="https://ieeexplore.ieee.org/document/8409735" target="_blank">Long-time non-contact water level measurement with a 5.8-GHz DC-coupled interferometry radar</a>," in *IEEE International Instrumentation and Measurement Technology Conference (I2MTC)*, Houston, TX, May 14-17, 2018.
