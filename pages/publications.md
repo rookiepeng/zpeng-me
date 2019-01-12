@@ -27,9 +27,9 @@
 
 </a>
 
-1. Y. Li, **Z. Peng**, R. Pal, and C. Li, "<a href="https://ieeexplore.ieee.org/document/8519763" target="_blank">Potential active shooter detection based on radar micro-Doppler and range-Doppler analysis using artificial neural network</a>," *IEEE Sensors Journal*, in print, 2018.
+1. Y. Li, **Z. Peng**, R. Pal, and C. Li, "<a href="https://ieeexplore.ieee.org/document/8519763" target="_blank">Potential active shooter detection based on radar micro-Doppler and range-Doppler analysis using artificial neural network</a>," *IEEE Sensors Journal*, vol. 19, no. 3, pp. 1052-1063, Feb. 2019.
 
-1. D. Tang, J. Wang, W. Hu, **Z. Peng**, Y.-C. Chiang, and C. Li, "A DC-coupled high dynamic range biomedical radar sensor with fast-settling analog DC offset cancellation," *IEEE Transactions on Instrumentation and Measurement*, major revision.
+1. D. Tang, J. Wang, W. Hu, **Z. Peng**, Y.-C. Chiang, and C. Li, "A DC-coupled high dynamic range biomedical radar sensor with fast-settling analog DC offset cancellation," *IEEE Transactions on Instrumentation and Measurement*, in print, 2019.
 
 1. J. Yan, **Z. Peng**, H. Hong, H, Chu, X. Zhu, and C. Li, "<a href="https://ieeexplore.ieee.org/document/8506426" target="_blank">Vital-SAR-imaging with a drone-based hybrid radar system</a>," *IEEE Transactions on Microwave Theory and Techniques*, vol. 66, no. 12, pp. 5852-5862, Dec. 2018.
 
