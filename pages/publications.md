@@ -67,7 +67,7 @@
 
 1. J.-M. Muñoz-Ferreras, **Z Peng**, J. Wang, C. Li, and R. Gómez-García, "Coherent deramping-based multi-FMCW radar architecture," in *IEEE Topical Conference on Wireless Sensors and Sensor Networks (WiSNet)*, Orlando, FL, Jan. 20-23, 2019.
 
-1. **Z. Peng**, P. Nallabolu, and C. Li, "Design and calibration of a portable 24-GHz 3-D MIMO FMCW radarwith a non-uniformly spaced array and RF front-end coexisting on the same PCB layer," in *13th IEEE Dallas Circuits and Systems Conference 2018 (DCAS)*, Dallas, TX, Nov. 12, 2018.
+1. **Z. Peng**, P. Nallabolu, and C. Li, "<a href="https://ieeexplore.ieee.org/document/8620117" target="_blank">Design and calibration of a portable 24-GHz 3-D MIMO FMCW radar with a non-uniformly spaced array and RF front-end coexisting on the same PCB layer</a>," in *13th IEEE Dallas Circuits and Systems Conference 2018 (DCAS)*, Dallas, TX, Nov. 12, 2018.
 
 1. Z. Li, Z. Yang, C. Song, C. Li, **Z. Peng**, and W. Xu, "<a href="https://dl.acm.org/citation.cfm?id=3274833" target="_blank">E-Eye: Hidden electronics recognition through mm-wave nonlinear effects</a>," in *Proceedings of the 16th ACM Conference on Embedded Networked Sensor Systems (SenSys '18)*, Shenzhen, China, Nov. 04-07, 2018.
 
