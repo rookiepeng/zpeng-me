@@ -131,7 +131,7 @@
 
 </a>
 
-1. **Z. Peng**, C. Li, and L. Ran, "Complex domain beamforming system and methods relating thereto," PCT Patent Application Filed, 09 20, 2017.
+1. **Z. Peng**, C. Li, and L. Ran, "<a href="https://app.dimensions.ai/details/patent/WO-2018057631-A1" target="_blank">Complex domain beamforming system and methods relating thereto</a>," PCT Patent Application Filed WO2018057631 A1, 09 19, 2017.
 
 1. C. Li and **Z. Peng**, "<a href="https://www.google.com/patents/WO2017176814A1" target="_blank">24-GHz low-cost continuous beam steering phased array for indoor smart radar and methods relating thereto</a>," PCT Patent Application Filed WO2017176814 A1, 04 04, 2017.
 
