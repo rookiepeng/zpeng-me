@@ -29,6 +29,8 @@
 
 1. D. Tang, J. Wang, W. Hu, **Z. Peng**, Y.-C. Chiang, and C. Li, "<a href="https://ieeexplore.ieee.org/abstract/document/8605382" target="_blank">A DC-coupled high dynamic range biomedical radar sensor with fast-settling analog DC offset cancellation</a>," *IEEE Transactions on Instrumentation and Measurement*, in print, 2019.
 
+1. **Z. Peng** and C. Li, "<a href="https://www.mdpi.com/1424-8220/19/5/1136" target="_blank">Portable microwave radar systems for short-range localization and life tracking: a review</a>," *Sensors*, vol. 19, no. 5, p. 1136, Mar. 2019.
+
 1. Y. Li, **Z. Peng**, R. Pal, and C. Li, "<a href="https://ieeexplore.ieee.org/document/8519763" target="_blank">Potential active shooter detection based on radar micro-Doppler and range-Doppler analysis using artificial neural network</a>," *IEEE Sensors Journal*, vol. 19, no. 3, pp. 1052-1063, Feb. 2019.
 
 1. J. Yan, **Z. Peng**, H. Hong, H, Chu, X. Zhu, and C. Li, "<a href="https://ieeexplore.ieee.org/document/8506426" target="_blank">Vital-SAR-imaging with a drone-based hybrid radar system</a>," *IEEE Transactions on Microwave Theory and Techniques*, vol. 66, no. 12, pp. 5852-5862, Dec. 2018.
