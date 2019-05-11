@@ -15,6 +15,8 @@
 
 </a>
 
+1. **Z. Peng**, C. Li, R. Gómez-García, and J.-M. Muñoz-Ferreras, “Chapter 9: Hardware Development andApplications of Portable FMCW Radars,” in *Micro-Doppler Radar and its Applications*, F. Fioranelli, H.Griffiths, M. Ritchie, and A. Balleri, Eds. Raleigh, NC: SCITECH PUB, 2020.
+
 1. **Z. Peng**, C. Li, R. Gómez-García, and J.-M. Muñoz-Ferreras, "Chapter 1: FMCW Radar System for Short-Range Micro-Motion Sensing," in *Short-Range Micro-Motion Sensing: Hardware, signal processing, and machine learning,* C. Gu and J. Lien, Eds. Raleigh, NC: SCITECH PUB, 2019.
 
 1. R. Gómez-García, D. Psychogiou, **Z. Peng**, J.-M. Muñoz-Ferreras, and C. Li, "<a href="https://www.theiet.org/resources/books/rsna/spec-sharing.cfm" target="_blank">Chapter 10: Adaptive RF multi-interference suppression for radar/wireless-communication wideband receivers</a>," in *Radar and Communications Spectrum Sharing,* S. Blunt and E. Perrins, Eds. Raleigh, NC: SCITECH PUB, 2018.
@@ -27,7 +29,7 @@
 
 </a>
 
-1. D. Tang, J. Wang, W. Hu, **Z. Peng**, Y.-C. Chiang, and C. Li, "<a href="https://ieeexplore.ieee.org/abstract/document/8605382" target="_blank">A DC-coupled high dynamic range biomedical radar sensor with fast-settling analog DC offset cancellation</a>," *IEEE Transactions on Instrumentation and Measurement*, in print, 2019.
+1. D. Tang, J. Wang, W. Hu, **Z. Peng**, Y.-C. Chiang, and C. Li, "<a href="https://ieeexplore.ieee.org/abstract/document/8605382" target="_blank">A DC-coupled high dynamic range biomedical radar sensor with fast-settling analog DC offset cancellation</a>," *IEEE Transactions on Instrumentation and Measurement*, vol. 68, no. 5, pp. 1441-1450, May 2019.
 
 1. **Z. Peng** and C. Li, "<a href="https://www.mdpi.com/1424-8220/19/5/1136" target="_blank">Portable microwave radar systems for short-range localization and life tracking: a review</a>," *Sensors*, vol. 19, no. 5, p. 1136, Mar. 2019.
 
@@ -67,7 +69,7 @@
 
 </a>
 
-1. J.-M. Muñoz-Ferreras, **Z Peng**, J. Wang, C. Li, and R. Gómez-García, "Coherent deramping-based multi-FMCW radar architecture," in *IEEE Topical Conference on Wireless Sensors and Sensor Networks (WiSNet)*, Orlando, FL, Jan. 20-23, 2019.
+1. J.-M. Muñoz-Ferreras, **Z. Peng**, J. Wang, C. Li, and R. Gómez-García, "Coherent deramping-based multi-FMCW radar architecture," in *IEEE Topical Conference on Wireless Sensors and Sensor Networks (WiSNet)*, Orlando, FL, Jan. 20-23, 2019.
 
 1. **Z. Peng**, P. Nallabolu, and C. Li, "<a href="https://ieeexplore.ieee.org/document/8620117" target="_blank">Design and calibration of a portable 24-GHz 3-D MIMO FMCW radar with a non-uniformly spaced array and RF front-end coexisting on the same PCB layer</a>," in *13th IEEE Dallas Circuits and Systems Conference 2018 (DCAS)*, Dallas, TX, Nov. 12, 2018.
 
@@ -77,11 +79,11 @@
 
 1. T. Jiao, **Z. Peng**, S. Luo, Y. Li, and C. Li, "<a href="https://www.2018apsursi.org/Papers/ViewPapers.asp?PaperNum=2600" target="_blank">Mutual coupling reduction in a T/R array with T-resonate cavity EBG (TRC-EBG)</a>," in *IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (AP-S/URSI)*, Boston, MA, Jul. 8-13, 2018.
 
-1. J.-M. Muñoz-Ferreras, J. Wang, **Z Peng**, R. Gómez-García, and C. Li, "<a href="https://ieeexplore.ieee.org/abstract/document/8471575" target="_blank">From Doppler to FMCW radars for non-contact vital-sign monitoring</a>," in *2nd URSI Atlantic Radio Science Meeting (AT-RASC)*, Meloneras, Spain, May 28-Jun. 1, 2018.
+1. J.-M. Muñoz-Ferreras, J. Wang, **Z. Peng**, R. Gómez-García, and C. Li, "<a href="https://ieeexplore.ieee.org/abstract/document/8471575" target="_blank">From Doppler to FMCW radars for non-contact vital-sign monitoring</a>," in *2nd URSI Atlantic Radio Science Meeting (AT-RASC)*, Meloneras, Spain, May 28-Jun. 1, 2018.
 
-1. D. Tang, J. Wang, **Z Peng**, Y.-C. Chiang, and C. Li, "<a href="https://ieeexplore.ieee.org/document/8409872" target="_blank">A DC-coupled biomedical radar sensor with analog DC offset calibration circuit</a>," in *IEEE International Instrumentation and Measurement Technology Conference (I2MTC)*, Houston, TX, May 14-17, 2018.
+1. D. Tang, J. Wang, **Z. Peng**, Y.-C. Chiang, and C. Li, "<a href="https://ieeexplore.ieee.org/document/8409872" target="_blank">A DC-coupled biomedical radar sensor with analog DC offset calibration circuit</a>," in *IEEE International Instrumentation and Measurement Technology Conference (I2MTC)*, Houston, TX, May 14-17, 2018.
 
-1. **Z Peng**, A. Mishra, J. Davis, J. Bridge, and C. Li, "<a href="https://ieeexplore.ieee.org/document/8409735" target="_blank">Long-time non-contact water level measurement with a 5.8-GHz DC-coupled interferometry radar</a>," in *IEEE International Instrumentation and Measurement Technology Conference (I2MTC)*, Houston, TX, May 14-17, 2018.
+1. **Z. Peng**, A. Mishra, J. Davis, J. Bridge, and C. Li, "<a href="https://ieeexplore.ieee.org/document/8409735" target="_blank">Long-time non-contact water level measurement with a 5.8-GHz DC-coupled interferometry radar</a>," in *IEEE International Instrumentation and Measurement Technology Conference (I2MTC)*, Houston, TX, May 14-17, 2018.
 
 1. J. Wang, **Z. Peng**, and C. Li, "<a href="https://ieeexplore.ieee.org/abstract/document/8401016" target="_blank">An efficient and extended range tracking method using a hybrid FSK-FMCW system</a>," in *IEEE MTT-S International Wireless Symposium (IWS)*, Chengdu, China, May 6-10, 2018.
 
@@ -93,7 +95,7 @@
 
 1. **Z. Peng**, D. Psychogiou, and C. Li, "<a href="http://ieeexplore.ieee.org/abstract/document/8051807" target="_blank">Investigation of the roles of filters for a harmonic FMCW radar</a>," in *International Applied Computational Electromagnetics Society (ACES) Symposium*, Suzhou, China, Aug. 1-4, 2017.
 
-1. J.-M. Muñoz-Ferreras, **Z Peng**, R. Gómez-García, and C. Li, "<a href="http://ieeexplore.ieee.org/abstract/document/8051805" target="_blank">Tone-ranging-inspired architecture for short-range radars: theory and simulations</a>," in *International Applied Computational Electromagnetics Society (ACES) Symposium*, Suzhou, China, Aug. 1-4, 2017.
+1. J.-M. Muñoz-Ferreras, **Z. Peng**, R. Gómez-García, and C. Li, "<a href="http://ieeexplore.ieee.org/abstract/document/8051805" target="_blank">Tone-ranging-inspired architecture for short-range radars: theory and simulations</a>," in *International Applied Computational Electromagnetics Society (ACES) Symposium*, Suzhou, China, Aug. 1-4, 2017.
 
 1. Y. Li, **Z. Peng**, and C. Li, "<a href="http://ieeexplore.ieee.org/abstract/document/8051803" target="_blank">Potential active shooter detection using a portable radar sensor with micro-Doppler and range-Doppler analysis</a>," in *International Applied Computational Electromagnetics Society (ACES) Symposium*, Suzhou, China, Aug. 1-4, 2017.
 
@@ -132,6 +134,8 @@
 ## Patents
 
 </a>
+
+1. K.-J. Kim, **Z. Peng**, B. Wang, K. H. Teo, "<a href="http://www.freepatentsonline.com/10218550.html" target="_blank">Beamforming transmission with analog hardware resource sharing</a>," US 10218550, 02 26, 2019.
 
 1. **Z. Peng**, C. Li, and L. Ran, "<a href="https://app.dimensions.ai/details/patent/WO-2018057631-A1" target="_blank">Complex domain beamforming system and methods relating thereto</a>," PCT Patent Application Filed WO2018057631 A1, 09 19, 2017.
 
