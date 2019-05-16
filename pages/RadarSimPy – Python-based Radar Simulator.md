@@ -9,8 +9,12 @@ There are three modules in this package:
 
 1. `processing`: Basic radar signal processing
 
+## Installation
+
+[Contact me](https://zpeng.me/#contact) if you are interested in this module.
+
 ## Usage
 
-- [Doppler radar simulation](<https://zpeng.me/index.php/doppler-radar/>)
-- [FMCW radar simulation](<https://zpeng.me/index.php/fmcw-radar/>)
-- [TDM MIMO FMCW radar simulation](<https://zpeng.me/index.php/tdm-mimo-fmcw-radar/>)
+- [Doppler radar simulation](https://zpeng.me/index.php/doppler-radar)
+- [FMCW radar simulation](https://zpeng.me/index.php/fmcw-radar)
+- [TDM MIMO FMCW radar simulation](https://zpeng.me/index.php/tdm-mimo-fmcw-radar)
