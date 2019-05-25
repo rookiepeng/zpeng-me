@@ -18,3 +18,4 @@ There are three modules in this package:
 - [Doppler radar simulation](https://zpeng.me/index.php/doppler-radar)
 - [FMCW radar simulation](https://zpeng.me/index.php/fmcw-radar)
 - [TDM MIMO FMCW radar simulation](https://zpeng.me/index.php/tdm-mimo-fmcw-radar)
+- [PMCW radar simulation](https://zpeng.me/index.php/pmcw-radar)
