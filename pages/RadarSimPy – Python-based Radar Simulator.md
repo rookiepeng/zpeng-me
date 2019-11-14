@@ -1,4 +1,3 @@
-
 A **Radar** **Sim**ulator built with **Py**thon
 
 There are three modules in this package:
@@ -20,6 +19,9 @@ There are three modules in this package:
   - [FMCW radar simulation](https://zpeng.me/index.php/fmcw-radar)
   - [TDM MIMO FMCW radar simulation](https://zpeng.me/index.php/tdm-mimo-fmcw-radar)
   - [PMCW radar simulation](https://zpeng.me/index.php/pmcw-radar)
+
+- Target simulation
+  - [Target RCS evaluation with ray tracing](https://zpeng.me/index.php/rcs-calculation-with-ray-tracing)
 
 - Characterization
   - [Receiver Operating Characteristic (ROC)](https://zpeng.me/index.php/receiver-operating-characteristic/)
