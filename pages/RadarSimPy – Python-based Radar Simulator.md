@@ -23,5 +23,8 @@ There are three modules in this package:
 - Target simulation
   - [Target RCS evaluation with ray tracing](https://zpeng.me/index.php/rcs-calculation-with-ray-tracing)
 
+- LIDAR (Experimental)
+  - [LIDAR point cloud](https://zpeng.me/index.php/lidar-point-cloud/)
+
 - Characterization
-  - [Receiver Operating Characteristic (ROC)](https://zpeng.me/index.php/receiver-operating-characteristic/)
+  - [Receiver operating characteristic (ROC)](https://zpeng.me/index.php/receiver-operating-characteristic/)
