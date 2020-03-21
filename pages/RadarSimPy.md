@@ -1,4 +1,4 @@
-A **Radar** **Sim**ulator built with **Py**thon
+A **Radar** **Sim**ulator built for **Py**thon
 
 There are three modules in this package:
 
