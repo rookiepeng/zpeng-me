@@ -1,12 +1,12 @@
-A **Radar** **Sim**ulator built for **Py**thon
+A **Radar** **Sim**ulator for **Py**thon
 
 There are three modules in this package:
 
 1. `Radar`: Defines radar parameters
 
-1. `simulator`: Simulates and generates raw time domain baseband data
+2. `simulator`: Simulates and generates raw time domain baseband data
 
-1. `processing`: Basic radar signal processing
+3. `processing`: Basic radar signal processing
 
 ## Installation
 
