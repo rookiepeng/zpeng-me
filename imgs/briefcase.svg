@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1902.7457"
+   height="1902.7457"
+   viewBox="0 0 1902.7457 1902.7457"
+   id="svg4"
+   sodipodi:docname="briefcase.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   version="1.1"
+   inkscape:export-filename="C:\Users\zjx8rj\OneDrive - Aptiv\Desktop\briefcase.png"
+   inkscape:export-xdpi="51.664288"
+   inkscape:export-ydpi="51.664288">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="0.30844827"
+     inkscape:cx="913.39006"
+     inkscape:cy="815.04449"
+     inkscape:window-x="1911"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <path
+     d="m 775.1441,598.91533 h 352.4577 V 510.80095 H 775.1441 Z m 793.0295,440.57187 v 330.429 q 0,45.434 -32.3545,77.7885 -32.3544,32.3545 -77.7884,32.3545 H 444.71516 q -45.43398,0 -77.78848,-32.3545 -32.3545,-32.3545 -32.3545,-77.7885 v -330.429 h 462.60051 v 110.143 q 0,17.8983 13.07948,30.9777 13.07948,13.0796 30.97772,13.0796 H 1061.516 q 17.8982,0 30.9777,-13.0796 13.0795,-13.0794 13.0795,-30.9777 v -110.143 z m -528.6863,0 v 88.1144 H 863.25848 v -88.1144 z m 528.6863,-330.42889 v 264.3432 H 334.57218 v -264.3432 q 0,-45.43398 32.3545,-77.78848 32.3545,-32.3545 77.78848,-32.3545 H 687.02972 V 488.77236 q 0,-27.53574 19.27502,-46.81077 19.27502,-19.27502 46.81076,-19.27502 h 396.5148 q 27.5358,0 46.8108,19.27502 19.275,19.27503 19.275,46.81077 v 110.14297 h 242.3146 q 45.434,0 77.7884,32.3545 32.3545,32.3545 32.3545,77.78848 z"
+     id="path2"
+     style="fill:#ffbceb;fill-opacity:1;stroke-width:0.68839359"
+     inkscape:connector-curvature="0" />
+  <circle
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#ffbceb;stroke-width:50;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="path817"
+     cx="951.37286"
+     cy="951.37286"
+     r="926.37286" />
+</svg>
