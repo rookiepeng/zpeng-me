@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   aria-hidden="true"
+   focusable="false"
+   data-prefix="fas"
+   data-icon="graduation-cap"
+   class="svg-inline--fa fa-graduation-cap fa-w-20"
+   role="img"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg865"
+   sodipodi:docname="microscope-solid.svg"
+   width="512"
+   height="512"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:export-filename="C:\Users\zjx8rj\OneDrive\microscope-solid.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150">
+  <metadata
+     id="metadata871">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs869" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview867"
+     showgrid="false"
+     inkscape:zoom="0.44194174"
+     inkscape:cx="83.963299"
+     inkscape:cy="80.067425"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg865"
+     inkscape:document-rotation="0" />
+  <path
+     fill="currentColor"
+     d="M 225.99999,275.99999 H 229.75 v 5 c 0,2.7625 2.2375,5 5,5 h 12.49999 c 2.76251,0 5,-2.2375 5,-5 v -5 H 256 c 5.52187,0 10,-4.47813 10,-10 v -70 c 0,-5.52188 -4.47813,-10 -10,-10 v -5 c 0,-2.7625 -2.23751,-5 -5,-5 h -20.00001 c -2.76249,0 -5,2.2375 -5,5 v 5 c -5.52187,0 -10,4.47812 -10,10 v 70 c 0,5.52187 4.47813,10 10,10 z M 321,316 h -0.40313 C 330.1375,305.37186 336,291.37499 336,275.99999 c 0,-33.0875 -26.9125,-60 -60,-60 v 20 c 22.05625,0 40,17.94375 40,40 C 316,298.05624 298.05625,316 276,316 h -85 c -8.28438,0 -15,6.71563 -15,15 0,2.76251 2.2375,5.00001 5,5.00001 h 150 c 2.7625,0 5,-2.2375 5,-5.00001 0,-8.28437 -6.71563,-15 -15,-15 z M 208.5,305.99999 h 64.99999 c 1.38126,0 2.50001,-1.11875 2.50001,-2.5 v -5 c 0,-1.38125 -1.11875,-2.5 -2.50001,-2.5 H 208.5 c -1.38126,0 -2.5,1.11875 -2.5,2.5 v 5 c 0,1.38125 1.11874,2.5 2.5,2.5 z"
+     id="path2"
+     style="fill:#9e9e9e;fill-opacity:1;stroke-width:0.3125" />
+</svg>

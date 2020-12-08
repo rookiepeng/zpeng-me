@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   aria-hidden="true"
+   focusable="false"
+   data-prefix="fas"
+   data-icon="graduation-cap"
+   class="svg-inline--fa fa-graduation-cap fa-w-20"
+   role="img"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg865"
+   sodipodi:docname="graduation-cap-solid.svg"
+   width="512"
+   height="512"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata871">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs869" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1368"
+     inkscape:window-height="850"
+     id="namedview867"
+     showgrid="false"
+     inkscape:zoom="0.44194174"
+     inkscape:cx="83.963299"
+     inkscape:cy="261.08676"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg865" />
+  <path
+     fill="currentColor"
+     d="M 425.79086,198.26862 269.13924,150.13983 c -8.53627,-2.62265 -17.74645,-2.62265 -26.27709,0 L 86.204923,198.26862 c -13.219973,4.06034 -13.219973,21.54283 0,25.60316 l 27.310417,8.39025 c -5.99223,7.40745 -9.6763,16.44354 -10.04134,26.33886 -5.408167,3.10001 -9.215789,8.69351 -9.215789,15.37089 0,6.054 3.189866,11.14768 7.783719,14.40494 l -14.337545,64.51616 c -1.246744,5.61035 3.021386,10.93428 8.766515,10.93428 h 31.51115 c 5.75074,0 10.01888,-5.32393 8.77213,-10.93428 l -14.33755,-64.51616 c 4.59386,-3.25726 7.78372,-8.35094 7.78372,-14.40494 0,-6.49767 -3.63352,-11.93392 -8.79459,-15.09009 0.42682,-8.43518 4.73987,-15.89317 11.61943,-20.62181 l 109.83135,33.74631 c 5.08806,1.56124 14.8486,3.50998 26.27708,0 L 425.79086,223.8774 c 13.22559,-4.06595 13.22559,-21.54282 0,-25.60878 z m -151.37823,90.9168 c -16.02235,4.91958 -29.67475,2.20145 -36.8351,0 l -81.44266,-25.01911 -7.96343,63.7187 c 0,19.85242 48.27479,35.94215 107.82644,35.94215 59.55166,0 107.82646,-16.08973 107.82646,-35.94215 l -7.96343,-63.72432 z"
+     id="path863"
+     style="fill:#424242;fill-opacity:1;stroke-width:0.561596" />
+</svg>
